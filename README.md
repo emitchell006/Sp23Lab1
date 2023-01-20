@@ -26,4 +26,6 @@ After you click the link in blue or press the enter (return) key your file explo
 
 ### Using VS Code
 
-The following diagram displays the Welcome page for VS Code. The preceding section discussed the use of the _Clone Git Repository_ command. You use it to make the initial copy of a GitHub repository on your local machine. The _Open_ command is used to open a git repository at all other times. Note that git repositories are stored on your computer as a folder. So you use the _Open_ command to open a folder
+The following diagram displays the Welcome page for VS Code. The preceding section discussed the use of the _Clone Git Repository_ command. You use it to make the initial copy of a GitHub repository on your local machine. The _Open_ command is used to open a git repository at all other times. Note that git repositories are stored on your computer as a folder. So you use the _Open_ command to open a folder. **Always open a folder in VS Code, not a file!**
+
+![Clone vs Open](images/VSCode-Welcome.png)
