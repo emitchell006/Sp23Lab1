@@ -26,6 +26,22 @@ After you click the link in blue or press the enter (return) key your file explo
 
 ### Using VS Code
 
-The following diagram displays the Welcome page for VS Code. The preceding section discussed the use of the _Clone Git Repository_ command. You use it to make the initial copy of a GitHub repository on your local machine. The _Open_ command is used to open a git repository at all other times. Note that git repositories are stored on your computer as a folder. So you use the _Open_ command to open a folder. **Always open a folder in VS Code, not a file!**
+_Cloning vs Opening_: The following diagram displays the Welcome page for VS Code. The preceding section discussed the use of the _Clone Git Repository_ command. You use it to make the initial copy of a GitHub repository on your local machine. The _Open_ command is used to open a git repository at all other times. Note that git repositories are stored on your computer as a folder. So you use the _Open_ command to open a folder. **Always open a folder in VS Code, not a file!**
 
 ![Clone vs Open](images/VSCode-Welcome.png)
+
+_Navigating in VS Code_: An open repo in VS Code will appear similar to the following diagram. The Welcome tab can be closed by clicking the close icon in the tab. A file can be opened by clicking the name of the file in the left hand menu drawer. Note that you have to click the workspace icon in order to see the file and sub-folder content of the repo. In the case of the diagram, the HelloWorld.py file has been clicked once to display the file's contents in an editor tab.
+
+![Navigation of VS Code](images/NavigatingVSCode.png)
+
+The buttons in the left-most drawer are used to navigate within the functions that VS Code supplies. As the semester progresses you will learn to use most of these buttons.
+
+_Note_: In git terminology, the folder that contains the files of the repo is known as the workspace.
+
+_Editing & Running a Program_ Editing a program involves: (1) clicking on the name of the program file to open the editor tab, (2) editing the program by typing in the editor, and (3) saving the file (command-s on Mac computers and control-s on Windows). To run (execute) a program you right click on the name of the file and select Run Pyghon File in Terminal. The following image illustrates the context menu for running a program.
+
+![Running a Program](images/Running-a-program.png)
+
+The output for a program is shown in the following image.
+
+![Program Execution](images/ProgramExecution.png)
