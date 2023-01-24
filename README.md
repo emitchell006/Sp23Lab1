@@ -14,11 +14,11 @@ All labs this semester will be made available as git repo stored on GitHub. In o
 
 ### Cloning a lab repo from GitHub
 
-The frist step in cloning the lab repo from GitHub is to copy the url of the repo. The following image illustrates the two steps in this process.
+The first step in cloning the lab repo from GitHub is to copy the url of the repo. The following image illustrates the two steps in this process.
 
 ![Get the repo url ](images/CloningRepo.png)
 
-The second step is to make a copy of the repo on your local machine. We will use VS Code to clone the repo. Your VS Code should open to the Welcome page, which you can see in the background of the following image. Click the _Clone Git Repository_ link and you will see the dialog box shown in the foreground of the image. Click in the top box and past in the url of your lab GitHub repo. (You copied it in the step above.)
+The second step is to make a copy of the repo on your local machine. We will use VS Code to clone the repo. Your VS Code should open to the Welcome page, which you can see in the background of the following image. Click the _Clone Git Repository_ link and you will see the dialog box shown in the foreground of the image. Click in the top box and paste in the url of your lab GitHub repo. (You copied it in the step above.)
 
 ![Make a local copy of the repo](images/Cloning-a-repo.png)
 
@@ -38,7 +38,7 @@ The buttons in the left-most drawer are used to navigate within the functions th
 
 _Note_: In git terminology, the folder that contains the files of the repo is known as the workspace.
 
-_Editing & Running a Program_ Editing a program involves: (1) clicking on the name of the program file to open the editor tab, (2) editing the program by typing in the editor, and (3) saving the file (command-s on Mac computers and control-s on Windows). To run (execute) a program you right click on the name of the file to open the file's context menu and select Run Pyghon File in Terminal. The following image illustrates the context menu for running a program.
+_Editing & Running a Program_ Editing a program involves: (1) clicking on the name of the program file to open the editor tab, (2) editing the program by typing in the editor, and (3) saving the file (command-s on Mac computers and control-s on Windows). To run (execute) a program you right click on the name of the file to open the file's context menu and select Run Python File in Terminal. The following image illustrates the context menu for running a program.
 
 ![Running a Program](images/Running-a-program.png)
 
@@ -52,10 +52,10 @@ _Overview_: There are three steps that are required to save the changes you make
 
 The two steps required to save your project to your local repo are:
 
-1.  Stage all changes. (# 3 in the following image)
+1.  Stage all changes. (#3 in the following image)
 2.  Commit your changes to your local repo. There are two steps to this process:
     1.  Write a short Commit message to indicate the changes. (50 characters max)
-    2.  Chick the Commit button and wait until the timer on the GIT icon goes away.
+    2.  Check the Commit button and wait until the timer on the GIT icon goes away.
 
 ![Staging and Committing your local repo](images/Git-1.png)
 
